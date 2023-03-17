@@ -1,3 +1,8 @@
+----
+--https://www.bps-corp.com/post/sql-server-inner-join-with-examples
+---
+
+
 USE [master]
 GO
 /****** Object:  Database [Learn_TSQL_InnerJoin]    Script Date: 3/16/2023 6:16:29 PM ******/
